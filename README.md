@@ -1,2 +1,2 @@
 # sample-repo
-更新
+振り返り
